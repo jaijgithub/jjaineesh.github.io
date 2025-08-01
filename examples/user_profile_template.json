@@ -1,0 +1,97 @@
+{
+  "name": "Your Full Name",
+  "email": "your.email@example.com",
+  "phone": "+1 (555) 123-4567",
+  "linkedin": "https://linkedin.com/in/yourprofile",
+  "location": "City, State",
+  "summary": "Experienced Product Manager with X+ years of experience driving product strategy and execution for [industry/company type]. Proven track record of launching successful products, managing cross-functional teams, and delivering measurable business results. Passionate about user-centered design and data-driven decision making.",
+  "experiences": [
+    {
+      "title": "Senior Product Manager",
+      "company": "Company Name",
+      "duration": "Jan 2022 - Present",
+      "achievements": [
+        "Led product strategy for [product name], resulting in X% increase in user engagement",
+        "Managed cross-functional team of X engineers, designers, and analysts",
+        "Launched 3 major features that increased revenue by $X",
+        "Conducted user research and A/B tests to optimize product experience",
+        "Collaborated with stakeholders to define product roadmap and priorities"
+      ],
+      "skills": ["product strategy", "agile", "user research", "data analysis", "stakeholder management"]
+    },
+    {
+      "title": "Product Manager",
+      "company": "Previous Company",
+      "duration": "Jun 2020 - Dec 2021",
+      "achievements": [
+        "Owned product lifecycle from ideation to launch for mobile application",
+        "Increased user retention by X% through feature improvements",
+        "Coordinated with engineering team to deliver features on time",
+        "Analyzed user feedback and metrics to inform product decisions"
+      ],
+      "skills": ["mobile product management", "user analytics", "scrum", "wireframing"]
+    },
+    {
+      "title": "Associate Product Manager",
+      "company": "First Company",
+      "duration": "Jan 2019 - May 2020",
+      "achievements": [
+        "Supported senior PM in managing product backlog and sprint planning",
+        "Conducted competitive analysis and market research",
+        "Created user stories and acceptance criteria for development team",
+        "Assisted in product launches and go-to-market strategies"
+      ],
+      "skills": ["market research", "user stories", "competitive analysis", "jira"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "University Name",
+      "year": "2018",
+      "details": [
+        "Concentration in Technology Management",
+        "Relevant coursework: Product Management, Data Analytics, Strategy"
+      ]
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University Name",
+      "year": "2016",
+      "details": [
+        "Minor in Business Administration",
+        "GPA: 3.7/4.0"
+      ]
+    }
+  ],
+  "skills": [
+    "Product Strategy",
+    "Agile/Scrum",
+    "User Research",
+    "Data Analysis",
+    "A/B Testing",
+    "Stakeholder Management",
+    "Cross-functional Leadership",
+    "Market Research",
+    "Competitive Analysis",
+    "User Stories",
+    "Wireframing",
+    "SQL",
+    "Python",
+    "Jira",
+    "Confluence",
+    "Figma",
+    "Google Analytics",
+    "Mixpanel",
+    "Tableau"
+  ],
+  "certifications": [
+    "Certified Scrum Product Owner (CSPO)",
+    "Google Analytics Certified",
+    "Product Management Certificate - University Name"
+  ],
+  "languages": [
+    "English (Native)",
+    "Spanish (Conversational)"
+  ]
+}

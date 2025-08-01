@@ -1,0 +1,12 @@
+# Core dependencies for PM Resume Agent
+# No external dependencies required - uses only Python standard library
+
+# Optional dependencies for enhanced functionality:
+# nltk>=3.8.1          # For advanced text processing and NLP
+# spacy>=3.5.0         # For named entity recognition
+# pandas>=1.5.0        # For data manipulation and analysis
+# beautifulsoup4>=4.11.0  # For parsing HTML job descriptions
+# requests>=2.28.0     # For fetching job descriptions from URLs
+# python-docx>=0.8.11  # For Word document export
+# reportlab>=3.6.0     # For PDF export
+# jinja2>=3.1.0        # For advanced template rendering
