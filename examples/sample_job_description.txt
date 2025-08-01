@@ -1,0 +1,48 @@
+Senior Product Manager - SaaS Platform
+
+Company: TechCorp Inc.
+Location: San Francisco, CA (Remote friendly)
+Experience Level: 5-8 years
+
+About the Role:
+We're looking for an experienced Senior Product Manager to join our growing product team. You'll be responsible for driving the product strategy and roadmap for our enterprise SaaS platform, working closely with engineering, design, and go-to-market teams to deliver exceptional user experiences.
+
+Key Responsibilities:
+• Define and execute product strategy for our core platform features
+• Manage product roadmap and prioritize feature development based on user needs and business objectives
+• Collaborate with cross-functional teams including engineering, design, marketing, and sales
+• Conduct user research, analyze customer feedback, and leverage data to inform product decisions
+• Write detailed user stories and acceptance criteria for development teams
+• Lead agile development processes including sprint planning and backlog management
+• Work with stakeholders to gather requirements and communicate product vision
+• Analyze product metrics and KPIs to measure success and identify optimization opportunities
+• Coordinate product launches and go-to-market strategies
+
+Requirements:
+• 5+ years of product management experience, preferably in B2B SaaS
+• Strong background in agile development methodologies (Scrum, Kanban)
+• Experience with data analysis and A/B testing
+• Proficiency with product management tools (Jira, Confluence, Figma)
+• Strong analytical skills with experience in SQL and data visualization tools
+• Excellent communication and stakeholder management skills
+• Experience with user research and customer discovery
+• Technical background or ability to work closely with engineering teams
+• Bachelor's degree in Computer Science, Engineering, Business, or related field
+• MBA preferred but not required
+
+Nice to Have:
+• Experience with enterprise software and B2B sales cycles
+• Knowledge of API development and integrations
+• Familiarity with cloud platforms (AWS, Azure, GCP)
+• Experience with product analytics tools (Mixpanel, Amplitude, Google Analytics)
+• Previous experience in a startup or high-growth environment
+
+What We Offer:
+• Competitive salary and equity package
+• Comprehensive health, dental, and vision insurance
+• Flexible work arrangements and unlimited PTO
+• Professional development budget
+• Opportunity to work with cutting-edge technology and talented team
+
+About TechCorp:
+TechCorp is a fast-growing B2B SaaS company that provides enterprise workflow automation solutions. Our platform helps companies streamline their operations and improve productivity. We're backed by top-tier VCs and have experienced 200% year-over-year growth.
