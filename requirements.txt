@@ -1,0 +1,16 @@
+# Resume Formatter Requirements
+# All required packages are part of Python's standard library
+# No additional installations needed for basic functionality
+
+# Optional: For enhanced PDF generation (if you want to add this feature later)
+# reportlab>=3.6.0
+# weasyprint>=56.0
+
+# The application uses only standard library modules:
+# - tkinter (GUI framework)
+# - json (settings storage)
+# - os (file operations)
+# - webbrowser (opening HTML files)
+# - tempfile (temporary file creation)
+# - datetime (date handling)
+# - re (regular expressions)
